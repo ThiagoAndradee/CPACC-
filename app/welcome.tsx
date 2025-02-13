@@ -23,17 +23,17 @@ export default function WelcomePage() {
         </View>
         <View className="p-6">
           <Text className="text-2xl font-semibold text-center mb-2">
-            Daily new German challenges
+            CPACC Trainer
           </Text>
           <Text className="text-md text-gray-600 text-center mb-4">
-            Are you ready to ace German declensions?
+            A11y directly in your pocket. Train for the CPACC exam with daily challenges.
           </Text>
         </View>
 
         {/* Botões */}
         <View className="p-6 flex flex-col space-y-2">
           <TouchableOpacity
-            onPress={() => router.push('/tutorial?totalQuestions=5')}
+            onPress={() => router.push('/practice?totalQuestions=5')}
             className="w-full py-3 rounded-lg bg-[#31CD9E] text-center"
           >
             <Text className="text-white font-semibold text-center text-lg">
@@ -42,7 +42,7 @@ export default function WelcomePage() {
           </TouchableOpacity>
 
           <TouchableOpacity
-            onPress={() => router.push('/tutorial?totalQuestions=10')}
+            onPress={() => router.push('/practice?totalQuestions=10')}
             className="w-full py-3 rounded-lg bg-[#1DA0C4] text-center my-6"
           >
             <Text className="text-white font-semibold text-center text-lg">
@@ -51,7 +51,7 @@ export default function WelcomePage() {
           </TouchableOpacity>
 
           <TouchableOpacity
-            onPress={() => router.push('/tutorial?totalQuestions=20')}
+            onPress={() => router.push('/practice?totalQuestions=20')}
             className="w-full py-3 rounded-lg bg-[#1D1DC4] text-center"
           >
             <Text className="text-white font-semibold text-center text-lg">

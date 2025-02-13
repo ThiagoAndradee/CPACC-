@@ -1,0 +1,790 @@
+{
+    "questions": [
+      {
+        "question": "Which is the BEST example of an individualized accommodation or adjustment for a student?",
+        "options": [
+          "Extra time on a test",
+          "Projected lessons on a large screen",
+          "Spell-checker for tests",
+          "Study groups"
+        ],
+        "answer": "Extra time on a test"
+      },
+      {
+        "question": "Which statement BEST describes a way the U.N. Convention on the Rights of Persons with Disabilities (CRPD) is being used to open opportunities for people with disabilities in information technology?",
+        "options": [
+          "The CRPD defers to the W3C for policy guidance on website accessibility and how to best promote its adoption.",
+          "The CRPD relies on partnerships between the private and public sector to encourage better accessibility standards.",
+          "The CRPD requires member states to enact tough laws that adopt WCAG 2.0.",
+          "The CRPD urges member states to take appropriate measures to ensure people with disabilities are not excluded."
+        ],
+        "answer": "The CRPD urges member states to take appropriate measures to ensure people with disabilities are not excluded."
+      },
+      {
+        "question": "Using directional signs in an airport that accommodate a wide range of literacy and language skills is an example of which principle of Universal Design 2.0?",
+        "options": [
+          "Principle Five: Tolerance for Error",
+          "Principle Six: Low Physical Effort",
+          "Principle Three: Simple and Intuitive Use",
+          "Principle Two: Flexibility of Use"
+        ],
+        "answer": "Principle Two: Flexibility of Use"
+      },
+      {
+        "question": "Increases in which category of health conditions account for the largest percentage of disabilities in all parts of the world?",
+        "options": [
+          "Infectious diseases",
+          "Mental health conditions",
+          "Non-communicable chronic diseases",
+          "Traumatic injuries"
+        ],
+        "answer": "Non-communicable chronic diseases"
+      },
+      {
+        "question": "Persons with a disability are MOST LIKELY to experience what major factor that could lead to poverty?",
+        "options": [
+          "Fewer skills",
+          "Lower employment rates",
+          "Lower marriage prospects",
+          "Lower participation in social activities"
+        ],
+        "answer": "Lower employment rates"
+      },
+      {
+        "question": "Which technique is MOST beneficial to blind and partially-sighted consumers of web and broadcast video content?",
+        "options": [
+          "Audio description",
+          "Captioning",
+          "Sign language interpretation",
+          "Transcripts"
+        ],
+        "answer": "Captioning"
+      },
+      {
+        "question": "An employee who is blind and has been successfully performing computer-based work (i.e., word processing and email correspondence) for several years, has recently developed carpal tunnel syndrome. What would be the MOST appropriate solution for maintaining optimal job performance?",
+        "options": [
+          "Adding voice-recognition software",
+          "Eliminating keyboard entry tasks from the job duties",
+          "Introducing screen-reader software",
+          "Reassignment to a different role"
+        ],
+        "answer": "Adding voice-recognition software"
+      },
+      {
+        "question": "An example that supports the Web Content Accessibility Guidelines (WCAG) 2.0 principle of Robust on a mobile device is by providing:",
+        "options": [
+          "a virtual keyboard.",
+          "captions and transcripts.",
+          "color contrast options.",
+          "limited content."
+        ],
+        "answer": "a virtual keyboard."
+      },
+      {
+        "question": "According to the Principles of Universal Design Version 2.0, which is an example of principle three: Simple and Intuitive to Use?",
+        "options": [
+          "Arrange elements to minimize errors.",
+          "Be consistent with user interface elements.",
+          "Provide warnings of hazards and errors.",
+          "Minimize repetitive actions."
+        ],
+        "answer": "Minimize repetitive actions."
+      },
+      {
+        "question": "A read-aloud function which highlights text as it is read, a clear, well-structured, simplified navigation system, diagrams that illustrate the point of the content, and icons to visually reinforce structure are particularly helpful for persons:",
+        "options": [
+          "who are non-verbal.",
+          "who are non-visual.",
+          "with cognitive disabilities.",
+          "with communication disabilities."
+        ],
+        "answer": "with cognitive disabilities."
+      },
+      {
+        "question": "According to the Principles of Universal Design Version 2.0, an example of principle two: Flexibility in Use is",
+        "options": [
+          "accommodating a wide range of literacy and language skills.",
+          "accommodating left- and right-handed access.",
+          "providing compatibility with a variety of devices used by people with sensory limitations.",
+          "using different modes (pictorial, verbal, tactile) for redundant presentation of essential information."
+        ],
+        "answer": "using different modes (pictorial, verbal, tactile) for redundant presentation of essential information."
+      },
+      {
+        "question": "Which example fully demonstrates Principles of Universal Design Version 2.0?",
+        "options": [
+          "Design policies that are geared specifically to persons with different disabilities.",
+          "Make available segregated seating area for persons with disabilities.",
+          "Provide identical means of use for all users where possible, equivalent when not.",
+          "Provide a series of alternate options for different types of users."
+        ],
+        "answer": "Provide identical means of use for all users where possible, equivalent when not."
+      },
+      {
+        "question": "Images and icons that can explain content, navigational elements that are clear and large enough to touch, integrated speech output, and total keyboard accessibility that can be translated to switch access are ALL design practices that can facilitate the use of which type of assistive devices?",
+        "options": [
+          "Augmentative and alternative communication devices",
+          "Listening devices",
+          "Magnification devices",
+          "Screen readers"
+        ],
+        "answer": "Screen readers"
+      },
+      {
+        "question": "What are standard communication methods for a person who is Deafblind?",
+        "options": [
+          "Navigation aids, tactile sign language, Braille, tactile marking/sign",
+          "Simplified environmental design, visual and audio alternatives to text",
+          "Standard/consistent physical positioning and visual presentation, visual filters",
+          "Visual labels/notifications/alerts, assistive listening devices, voice carryover"
+        ],
+        "answer": "Visual labels/notifications/alerts, assistive listening devices, voice carryover"
+      },
+      {
+        "question": "In the Principles of Universal Design Version 2.0, which definition defines principle one: Equitable Use?",
+        "options": [
+          "design accommodates a wide range of individual preferences.",
+          "design communicates necessary information effectively to the user regardless of sensory abilities.",
+          "design is useful and marketable to people with diverse abilities.",
+          "of the design is easy to understand, regardless of the user’s experience."
+        ],
+        "answer": "of the design is easy to understand, regardless of the user’s experience."
+      },
+      {
+        "question": "Eye tracking technology is MOST HELPFUL to persons with",
+        "options": [
+          "Cognitive disabilities.",
+          "Deafblindness.",
+          "Mobility disabilities.",
+          "Seizures."
+        ],
+        "answer": "Cognitive disabilities."
+      },
+      {
+        "question": "Which is the name of a principle from the Principles of Universal Design Version 2.0?",
+        "options": [
+          "Keyboard Accessible",
+          "Perceivable",
+          "Perceptible Information",
+          "Timing Adjustable"
+        ],
+        "answer": "Timing Adjustable"
+      },
+      {
+        "question": "Which principle in the Principles of Universal Design Version 2.0 considers a wide spectrum of a user’s abilities in addition to personal preference?",
+        "options": [
+          "Flexibility in Use",
+          "Low Physical Effort",
+          "Simple and Intuitive Use",
+          "Tolerance for Error"
+        ],
+        "answer": "Flexibility in Use"
+      },
+      {
+        "question": "When adequate clearance is provided, which is the MOST commonly built practice incorporated in the design of a kiosk (e.g., ATM/Cash Machine) that benefits wheelchair users?",
+        "options": [
+          "A frontal approach",
+          "A sideways approach",
+          "An adjustable height",
+          "An elevated approach"
+        ],
+        "answer": "An adjustable height"
+      },
+      {
+        "question": "A website designed for optimal use considers what factor that is NOT directly related to disability?",
+        "options": [
+          "Age-related disease",
+          "Color blindness",
+          "Dyslexia",
+          "Lack of computer skills"
+        ],
+        "answer": "Lack of computer skills"
+      },
+      {
+        "question": "Which is the BEST example of the Principles of Universal Design Version 2.0 principle six: Low Physical Effort?",
+        "options": [
+          "Automatic soap dispensers",
+          "Lamp with round switch",
+          "Round door handles",
+          "Stationary escalator steps"
+        ],
+        "answer": "Round door handles"
+      },
+      {
+        "question": "Which is an example of the Principles of Universal Design Version 2.0, principle seven: Size and Space for Approach and Use?",
+        "options": [
+          "A standard revolving turnstyle",
+          "Clear area around an automatic cash machine/dispenser (ATM)",
+          "Level floor seating for a presentation",
+          "Tables fixed to the floor"
+        ],
+        "answer": "Clear area around an automatic cash machine/dispenser (ATM)"
+      },
+      {
+        "question": "The broad-spectrum ideas meant to produce buildings, products, and environments that are inherently accessible to older people, people without disabilities, and people with disabilities is known as",
+        "options": [
+          "Accessible Design.",
+          "Functional Design.",
+          "Universal Design.",
+          "Usable Design."
+        ],
+        "answer": "Universal Design."
+      },
+      {
+        "question": "Which action BEST sustains an organizational culture shift toward accessibility?",
+        "options": [
+          "Delivering internal sensitivity training",
+          "Injecting accessibility into a one-time project",
+          "Introducing changes to business processes",
+          "Requiring outside training for employees"
+        ],
+        "answer": "Introducing changes to business processes"
+      },
+      {
+        "question": "Which example BEST illustrates how accessibility solutions can be incorporated into user experience design?",
+        "options": [
+          "Adding accessibility to a web site when a user asks for accommodation or adjustment",
+          "Attaching an accessibility statement to a web site",
+          "Designing a web site for people who use assistive technology",
+          "Redirecting the user to another accessible site"
+        ],
+        "answer": "Designing a web site for people who use assistive technology"
+      },
+      {
+        "question": "Theoretical Models of Disability: How does the MEDICAL MODEL define accessibility?",
+        "options": [
+          "As a biological impairment caused by a medically-diagnosed genetic disorder, disease, trauma, or other health condition.",
+          "The approach of disabilities by developing a sense of personal identity through consorting with others who share similar life experiences based on their disability.",
+          "A practical approach to disability by identifying the functional impairments or limitations that are a result of a disability and seek solutions",
+          "Approaching disability as a result of society creating disabling conditions rather than place the definition of \"disability\" solely on the person.",
+          "Defining disability by a person’s inability to participate in work."
+        ],
+        "answer": "As a biological impairment caused by a medically-diagnosed genetic disorder, disease, trauma, or other health condition."
+      },
+      {
+        "question": "Theoretical Models of Disability: How does the ECONOMIC MODEL define accessibility?",
+        "options": [
+          "As a biological impairment caused by a medically-diagnosed genetic disorder, disease, trauma, or other health condition.",
+          "The approach of disabilities by developing a sense of personal identity through consorting with others who share similar life experiences based on their disability.",
+          "A practical approach to disability by identifying the functional impairments or limitations that are a result of a disability and seek solutions",
+          "Approaching disability as a result of society creating disabling conditions rather than place the definition of \"disability\" solely on the person.",
+          "Defining disability by a person’s inability to participate in work."
+        ],
+        "answer": "Defining disability by a person’s inability to participate in work."
+      },
+      {
+        "question": "Theoretical Models of Disability: How does the SOCIAL MODEL define accessibility?",
+        "options": [
+          "As a biological impairment caused by a medically-diagnosed genetic disorder, disease, trauma, or other health condition.",
+          "The approach of disabilities by developing a sense of personal identity through consorting with others who share similar life experiences based on their disability.",
+          "A practical approach to disability by identifying the functional impairments or limitations that are a result of a disability and seek solutions",
+          "Approaching disability as a result of society creating disabling conditions rather than place the definition of \"disability\" solely on the person.",
+          "Defining disability by a person’s inability to participate in work."
+        ],
+        "answer": "Approaching disability as a result of society creating disabling conditions rather than place the definition of \"disability\" solely on the person."
+      },
+      {
+        "question": "Theoretical Models of Disability: How does the SOCIAL IDENTITY MODEL define accessibility?",
+        "options": [
+          "As a biological impairment caused by a medically-diagnosed genetic disorder, disease, trauma, or other health condition.",
+          "The approach of disabilities by developing a sense of personal identity through consorting with others who share similar life experiences based on their disability.",
+          "A practical approach to disability by identifying the functional impairments or limitations that are a result of a disability and seek solutions",
+          "Approaching disability as a result of society creating disabling conditions rather than place the definition of \"disability\" solely on the person.",
+          "Defining disability by a person’s inability to participate in work."
+        ],
+        "answer": "The approach of disabilities by developing a sense of personal identity through consorting with others who share similar life experiences based on their disability."
+      },
+      {
+        "question": "Theoretical Models of Disability: How does the FUNCTIONAL SOLUTIONS MODEL define accessibility?",
+        "options": [
+          "As a biological impairment caused by a medically-diagnosed genetic disorder, disease, trauma, or other health condition.",
+          "The approach of disabilities by developing a sense of personal identity through consorting with others who share similar life experiences based on their disability.",
+          "A practical approach to disability by identifying the functional impairments or limitations that are a result of a disability and seek solutions",
+          "Approaching disability as a result of society creating disabling conditions rather than place the definition of \"disability\" solely on the person.",
+          "Defining disability by a person’s inability to participate in work."
+        ],
+        "answer": "A practical approach to disability by identifying the functional impairments or limitations that are a result of a disability and seek solutions"
+      },
+      {
+        "question": "What is the function of the AFFECTIVE Network of the brain?",
+        "options": [
+          "It causes learners to engage/motivates to learn more by assigning significant or personable meaning to newly acquired knowledge.",
+          "GET"
+        ],
+        "answer": "It causes learners to engage/motivates to learn more by assigning significant or personable meaning to newly acquired knowledge."
+      },
+      {
+        "question": "Seizures with no apparent trigger and occur two or more times are WHAT kind of seizure?",
+        "options": [
+          "Epileptic",
+          "Symptomatic Epilepsy",
+          "Nonepileptic"
+        ],
+        "answer": "Epileptic"
+      },
+      {
+        "question": "Seizures caused by brain disorders such as structural abnormalities, stoke, or tumors are called...",
+        "options": [
+          "Epileptic Seizures",
+          "Symptomatic Epilepsy Seizures",
+          "Nonepileptic Seizures"
+        ],
+        "answer": "Symptomatic Epilepsy Seizures"
+      },
+      {
+        "question": "Provoked seizures caused by stroke, drugs, or head injury are called...",
+        "options": [
+          "Epileptic Seizures",
+          "Symptomatic Epileptic Seizures",
+          "Nonepileptic Seizures"
+        ],
+        "answer": "Nonepileptic Seizures"
+      },
+      {
+        "question": "In order, what are the three classifications when determining the magnitude and type of a speech disorder?",
+        "options": [
+          "Sounds the patient can produce, Stimulate sounds, Cannot produce the sound",
+          "Cannot produce the sound, Stimulate sounds, Sounds the patient can produce",
+          "Stimulate sounds, Sounds the patient can produce, Cannot produce the sound",
+          "Stimulate sounds, Cannot produce the sound, Sounds the patient can produce"
+        ],
+        "answer": "Sounds the patient can produce, Stimulate sounds, Cannot produce the sound"
+      },
+      {
+        "question": "Impaired communication skills, Impaired Social Skills, and Restrictive or repetitive Behavior or Interests are symptoms of...",
+        "options": [
+          "Autism Spectrum Disorder (ASD)",
+          "Emotion Behavioral Disorder (EBD)",
+          "Attention Deficit Disorder (ADD)",
+          "Dysgraphia"
+        ],
+        "answer": "Autism Spectrum Disorder (ASD)"
+      },
+      {
+        "question": "Define \"APHASIA\"",
+        "options": [
+          "Language difficulties caused by damage to the nervous system.",
+          "Muscle weakness affecting speech production"
+        ],
+        "answer": "Language difficulties caused by damage to the nervous system."
+      },
+      {
+        "question": "Define \"DYSARTHRIA\"",
+        "options": [
+          "Muscle weakness affecting speech production",
+          "Language difficulties caused by damage to the nervous system."
+        ],
+        "answer": "Muscle weakness affecting speech production"
+      },
+      {
+        "question": "A speech disorder in which a person has trouble saying what they want to correctly and consistently is called...",
+        "options": [
+          "Apraxia/dyspraxia",
+          "Dysarthria",
+          "Aphasia"
+        ],
+        "answer": "Apraxia/dyspraxia"
+      },
+      {
+        "question": "Reading and Math Disabilities can be a result of... (mark all that apply)",
+        "options": [
+          "Congenital origin",
+          "Injury",
+          "Stroke",
+          "Aging",
+          "Drugs",
+          "Psychological origin",
+          "Tumors",
+          "Drinking"
+        ],
+        "answer": "Congenital origin, Injury, Stroke, Aging, Drugs, Psychological origin, Tumors"
+      },
+{
+    "question": "A learning disability that affects writing abilities is called...",
+    "options": [
+      "Dysgraphia",
+      "Apraxia",
+      "Dyscalculia",
+      "Aphasia"
+    ],
+    "answer": "Dysgraphia"
+  },
+  {
+    "question": "The difficulty in learning or comprehending arithmetic, such as difficulty in understanding numbers, learning how to manipulate numbers, performing mathematical calculations, and learning facts in mathematics is called...",
+    "options": [
+      "Dyscalculia",
+      "Dysgraphia",
+      "Aphasia",
+      "Dysarthria"
+    ],
+    "answer": "Dyscalculia"
+  },
+  {
+    "question": "Language and Literacy; money, time and numbers, self-direction -- These are examples of...",
+    "options": [
+      "Conceptual Skills",
+      "Practical Skills",
+      "Intellectual Functioning",
+      "Adaptive Behaviour",
+      "Social Skills"
+    ],
+    "answer": "Conceptual Skills"
+  },
+  {
+    "question": "Activities of daily learning/personal care, occupational skills, healthcare, travel/transportation, schedules/routines, safety, use of money -- These are examples of...",
+    "options": [
+      "Practical Skills",
+      "Intellectual Functioning",
+      "Adaptive Behaviour",
+      "Social Skills",
+      "Conceptual Skills"
+    ],
+    "answer": "Practical Skills"
+  },
+  {
+    "question": "Interpersonal Skills, Responsibility, Self-esteem, gullibility, naivete, problem-solving, the ability to follow rules/obey laws, and avoiding being victimized are examples of...",
+    "options": [
+      "Social Skills",
+      "Adaptive Behaviour",
+      "Conceptual Skills",
+      "Intellectual Functioning",
+      "Practical Skills"
+    ],
+    "answer": "Social Skills"
+  },
+  {
+    "question": "The collection of conceptual, social and practical skills that are learned and performed by people in their everyday life is the definition of...",
+    "options": [
+      "Adaptive Behaviour",
+      "Social Skills",
+      "Practical Skills",
+      "Intellectual Functioning",
+      "Conceptual Skills"
+    ],
+    "answer": "Adaptive Behaviour"
+  },
+  {
+    "question": "General mental capacity, such as learning, reasoning, and problem-solving is the definition of...",
+    "options": [
+      "Practical Skills",
+      "Intellectual Functioning",
+      "Conceptual Skills",
+      "Adaptive Behaviour",
+      "Social Skills"
+    ],
+    "answer": "Intellectual Functioning"
+  },
+  {
+    "question": "\"Intellectual Disability\" is a disability characterized by...",
+    "options": [
+      "Intellectual Functioning limitations",
+      "Adaptive Behaviour limitations",
+      "Social and Practical Skills",
+      "All of the Above"
+    ],
+    "answer": "All of the Above"
+  },
+  {
+    "question": "A condition where there is a progressive loss of bone density and a decrease in the strength of the skeleton with a resultant risk of fracture is...",
+    "options": [
+      "Osteoporosis",
+      "Rheumatoid Arthritis",
+      "Congenital Bone Marrow Deterioration"
+    ],
+    "answer": "Osteoporosis"
+  },
+  {
+    "question": "An auto-immune disease causing chronic inflammation of the joints is called...",
+    "options": [
+      "Osteoporosis",
+      "Rheumatoid Arthritis",
+      "Carpal Tunnel Syndrome"
+    ],
+    "answer": "Rheumatoid Arthritis"
+  },
+  {
+    "question": "A hormonal disorder that develops when your pituitary gland produces too much growth hormone is called...",
+    "options": [
+      "Acromegaly",
+      "Proportionate Short Stature (PSS)",
+      "Disproportionate Short Stature (DSS)",
+      "Dyspraxia"
+    ],
+    "answer": "Acromegaly"
+  },
+  {
+    "question": "What does \"MADS\" stand for?",
+    "options": [
+      "Musculoskeletal Ambulation Disability Symptom Complex",
+      "Mental Acccuity Disability Symptom Complex",
+      "Mental Alertness Delay in Syncronization",
+      "Maximum Ability to Develop Social Skills"
+    ],
+    "answer": "Musculoskeletal Ambulation Disability Symptom Complex"
+  },
+  {
+    "question": "What is defined as a Developmental Coordination Disorder (DCD)?",
+    "options": [
+      "Apraxia",
+      "Dyspraxia",
+      "Aphasia",
+      "Dysphasia"
+    ],
+    "answer": "Dyspraxia"
+  },
+  {
+    "question": "What does \"SpLD\" stand for?",
+    "options": [
+      "Specific Learning Difficulty",
+      "Specific Learning Disorder",
+      "Specified Learning Difficulty",
+      "Specified Learning Disorder"
+    ],
+    "answer": "Specific Learning Difficulty"
+  },
+  {
+    "question": "Define \"CAPD\"",
+    "options": [
+      "Central Auditory Processing Disorder",
+      "Central Auditory Processing Difficulty",
+      "Communications Accessibility for People with Disabilities",
+      "Creative Accessibility for People with Disabilities"
+    ],
+    "answer": "Central Auditory Processing Disorder"
+  },
+  {
+    "question": "Identifying the primary language of a webpage is an example of which web accessibility principle?",
+    "options": [
+      "Understandable",
+      "Perceivable",
+      "Operable",
+      "Robust"
+    ],
+    "answer": "Understandable"
+  },
+  {
+    "question": "High contrast between text elements and the background on a web page is an example of which web accessibility principle?",
+    "options": [
+      "Perceivable",
+      "Understandable",
+      "Operable",
+      "Robust"
+    ],
+    "answer": "Perceivable"
+  },
+  {
+    "question": "Important information that is communicated using both color and text is an example of which web accessibility principle?",
+    "options": [
+      "Perceivable",
+      "Understandable",
+      "Robust",
+      "Operable"
+    ],
+    "answer": "Perceivable"
+  },
+  {
+    "question": "An item that communicated to a screen reader that it is expanded or collapsed is an example of which web accessibility principle?",
+    "options": [
+      "Robust",
+      "Perceivable",
+      "Operable",
+      "Understandable"
+    ],
+    "answer": "Operable"
+  },
+  {
+    "question": "An audio description track for a video tour of a facility is an example of which web accessibility principle?",
+    "options": [
+      "Perceivable",
+      "Understandable",
+      "Robust",
+      "Operable"
+    ],
+    "answer": "Perceivable"
+  },
+  {
+    "question": "Link text that communicates the purpose and/or destination of the link is an example of which web accessibility principle?",
+    "options": [
+      "Operable",
+      "Understandable",
+      "Robust",
+      "Perceivable"
+    ],
+    "answer": "Understandable"
+  },
+  {
+    "question": "What does \"UN CRPD\" stand for?",
+    "options": [
+      "United Nations Convention on the Right of Persons with Disabilities",
+      "United Nations Consortium on the Right of People with Disabilities",
+      "United Nations Constitution for the Rights of Persons with Disabilities"
+    ],
+    "answer": "United Nations Convention on the Right of Persons with Disabilities"
+  },
+  {
+    "question": "_____________________________, established June 27, 2013, seeks to create a set of mandatory limitations and exceptions for the benefit of the blind, visually impaired, and otherwise print disabled.",
+    "options": [
+      "The Marrakesh Treaty",
+      "The Universal Declaration of Human Rights",
+      "The Convention on the Rights of Persons with Disabilities",
+      "Basic Law for Persons with Disabilities"
+    ],
+    "answer": "The Marrakesh Treaty"
+  },
+  {
+    "question": "Ensuring compatibility with a broad range of user agents, including assistive technologies, is the definition of which Principle of Accessibility",
+    "options": [
+      "Robust",
+      "Perceivable",
+      "Understandable",
+      "Operable"
+    ],
+    "answer": "Robust"
+  },
+  {
+    "question": "What are the FOUR categories of disability laws and regulations?",
+    "options": [
+      "Multi-National Standards and Policies",
+      "National Standards and Policies",
+      "National and Regional Laws",
+      "Civil Rights Laws",
+      "Local Government Laws",
+      "Global Regulations and Policies",
+      "Independent Nation Regulations"
+    ],
+    "answer": "Multi-National Standards and Policies, National Standards and Policies, National and Regional Laws, Civil Rights Laws"
+  },
+  {
+    "question": "Which law addresses disabilities at the point of purchase?",
+    "options": [
+      "Procurement Laws",
+      "Stakeholder and Influencer Laws",
+      "Consumer and Industrial Laws",
+      "ACAA",
+      "AVAA"
+    ],
+    "answer": "Procurement Laws"
+  },
+  {
+    "question": "A popup warning on a website that states to all users, \"Your session is about to expire. Would you like to continue?\" is an example of which web accessibility principle?",
+    "options": [
+      "Perceivable",
+      "Operable",
+      "Robust",
+      "Understandable"
+    ],
+    "answer": "Operable"
+  },
+  {
+    "question": "Making sure that web content is robust means making sure that the content is written in a manner that is easy to comprehend.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "Alerting users to session timeouts utilizes which principle?",
+    "options": [
+      "Operable",
+      "Understandable",
+      "Robust",
+      "Perceivable"
+    ],
+    "answer": "Operable"
+  },
+  {
+    "question": "A nonepileptic seizure triggered by a fever is called a...",
+    "options": [
+      "Febrile Seizure",
+      "Petit Mal Seizure",
+      "Grand Mal Seizure",
+      "Focal Seizure"
+    ],
+    "answer": "Febrile Seizure"
+  },
+  {
+    "question": "By using standard markup and ARIA to indicate name, role, and value, you are making a website...",
+    "options": [
+      "Robust",
+      "Perceivable",
+      "Operable",
+      "Understandable"
+    ],
+    "answer": "Robust"
+  },
+  {
+    "question": "Respect for inherent dignity, individual autonomy including the freedom to make one's own choices, and independence of persons Non-discrimination Full and effective participation and inclusion in society Respect for difference and acceptance of persons with disabilities as part of human diversity and humanity Equality of opportunity Accessibility Equality between men and women Respect for the evolving capacities of children with disabilities and respect for the right of children with disabilities to preserve their identities These are the 8 core principles of WHAT?",
+    "options": [
+      "UN CRPD",
+      "CVAA",
+      "The Marrakesh Treaty",
+      "UDHR"
+    ],
+    "answer": "UN CRPD"
+  },
+  {
+    "question": "When / Where / by who was the Convention on the Rights of Persons with Disabilities established?",
+    "options": [
+      "December 13, 2006 / New York / UN",
+      "December 13, 2004 / France / UN",
+      "December 13, 2004 / New York / UN",
+      "December 13, 2006 / France / UN"
+    ],
+    "answer": "December 13, 2006 / New York / UN"
+  },
+  {
+    "question": "What does \"ACAA\" stand for?",
+    "options": [
+      "Air Carriers Access Act",
+      "Air Carriers Accessibility Act",
+      "Accessible Communications for American Associations",
+      "Accessible Communications for Associations of America"
+    ],
+    "answer": "Air Carriers Access Act"
+  },
+  {
+    "question": "What does \"CVAA\" stand for?",
+    "options": [
+      "Communications and Video Accessibility Act",
+      "Communications and Visual Accessibility Act",
+      "Computer and Video Accessibility Act",
+      "Convention for Visual/Audio Accessibility"
+    ],
+    "answer": "Communications and Video Accessibility Act"
+  },
+  {
+    "question": "Accessibility requirements suitable for public procurement of ICT products and services in Europe is defined by:",
+    "options": [
+      "EN 301 549",
+      "Section 508",
+      "The Marrakesh Treaty",
+      "Equality Act of 2010",
+      "AODA"
+    ],
+    "answer": "EN 301 549"
+  },
+  {
+    "question": "The UK's broad anti-discrimination law that covers Disability, Race/Ethnicity, Sex, Pregnancy/Parenthood, Sexual Orientation/identity, and Religion/Belief/or lack thereof is called...",
+    "options": [
+      "Equality Act of 2010 (EQA)",
+      "Section 508",
+      "The Marrakesh Treaty",
+      "EN 301 549",
+      "AODA"
+    ],
+    "answer": "Equality Act of 2010 (EQA)"
+  },
+  {
+    "question": "What is Canada's accessibility law?",
+    "options": [
+      "AODA",
+      "Section 504",
+      "EN 301 549",
+      "Equality Act of 2010",
+      "The Marrakesh Treaty"
+    ],
+    "answer": "AODA"
+  }
+]
+}
